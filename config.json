@@ -1,7 +1,7 @@
 {
-  "prefix": "",
-  "main_token": "",
-  "mongodb_url": "",
-  "developers": [""],
-  "bot_name":""
+  "prefix": "BOT_PREFIX_YOU_WANT",
+  "main_token": "YOUR_BOT_TOKEN",
+  "mongodb_url": "MONGODB_URL",
+  "developers": ["DEVELOPERS_IDS"],
+  "bot_name":"YOUR_BOT_NAME"
 }
