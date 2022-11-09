@@ -1,7 +1,7 @@
 {
-  "prefix": "BOT_PREFIX_YOU_WANT",
-  "main_token": "YOUR_BOT_TOKEN",
+  "prefix": "reaction_roles",
+  "main_token": "1039610042904756306",
   "mongodb_url": "MONGODB_URL",
-  "developers": ["DEVELOPERS_IDS"],
-  "bot_name":"YOUR_BOT_NAME"
+  "developers": ["786212458414473240"],
+  "bot_name":"reaction_roles"
 }
